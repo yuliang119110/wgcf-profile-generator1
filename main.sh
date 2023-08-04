@@ -17,7 +17,7 @@ echo | ./wgcf register
 chmod +x wgcf-account.toml
 
 clear
-yellow "请选择需要使用的 WARP 账户类型"
+yellow "请选择需要使用的 WARP 账户类型1"
 echo ""
 echo -e " ${GREEN}1.${PLAIN} WARP 免费账户 ${YELLOW}(默认)${PLAIN}"
 echo -e " ${GREEN}2.${PLAIN} WARP+"
